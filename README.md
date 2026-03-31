@@ -233,7 +233,7 @@ Edit `src/data/mockServices.js` to add more services. Each service should includ
 
 For questions or feedback about this demo:
 - 📧 Email: [monikay7084@gmail.com]
-- 🌐 GitHub: [https://github.com/AlphaStorm-X/GovGuide]
+- 🌐 GitHub: [https://github.com/Aivexh/GovGuide]
 
 ---
 
